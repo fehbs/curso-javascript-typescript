@@ -8,8 +8,8 @@ tem 1.8 de altura e seu IMC é de 25.925925925925924
 const nome = 'Fernando Henrique';
 const sobrenome = 'Bailão da Silva';
 const idade = 39;
-const peso = 73;
-const alturaEmM = 1.68;
+const peso = 68;
+const alturaEmM = 1.67;
 
 
 indiceMassaCorporal = peso / (alturaEmM * alturaEmM);
